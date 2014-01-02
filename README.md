@@ -12,7 +12,7 @@ Requirements
 
 #### Cookbooks
 
-* dmg
+* `dmg`
 
 Attributes
 ----------
